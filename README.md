@@ -1,4 +1,4 @@
-# ![](https://github.com/saswatraj/Canvas/blob/master/res/canvas.png "Canvas") 
+# ![](https://github.com/saswatraj/Canvas/blob/master/res/canvas.png?raw=true "Canvas") 
 
 A simple paint program written from scratch using wxWidgets and openGL __glut__ framework in C++.The project is aimed at a learning experience of how openGL works and many of the functions are not completely opetimized. For example in fill FloodFill is used, however reading one pixel at a time causes it to be so slow that the application may hung up.However other features are well implimented.There is pretty much scope of improvement in the code.
 
